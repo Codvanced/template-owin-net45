@@ -21,8 +21,8 @@ if ($customer -ne "" -and $project -ne "") {
 
 Remove-Module rename
 
-cd $outputFolder\.build\
+cd $outputFolder\
 
-.\build.ps1
+.\build.bat
 
 del **\*.pdb
