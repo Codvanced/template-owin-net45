@@ -50,8 +50,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\CodvancedFwReferences\IOC.FW.Repository.dll</HintPath>
     </Reference>
-    <Reference Include="IOC.FW.Repository.EF6">
-      <HintPath>..\..\..\..\..\..\..\..\WUNDERMAN\CODE\GIT\CIELO\cielo-patrocinio\sources\backend\api\CodvancedFwReferences\IOC.FW.Repository.EF6.dll</HintPath>
+    <Reference Include="IOC.FW.Repository.EF6, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CodvancedFwReferences\IOC.FW.Repository.EF6.dll</HintPath>
     </Reference>
     <Reference Include="IOC.FW.Shared, Version=1.0.0.16635, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

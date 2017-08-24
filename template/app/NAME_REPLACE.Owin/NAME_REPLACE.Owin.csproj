@@ -58,8 +58,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\CodvancedFwReferences\IOC.FW.ContainerManager.dll</HintPath>
     </Reference>
-    <Reference Include="IOC.FW.ContainerManager.DryIoc">
-      <HintPath>..\..\..\..\..\..\..\..\WUNDERMAN\CODE\GIT\CIELO\cielo-patrocinio\sources\backend\api\CodvancedFwReferences\IOC.FW.ContainerManager.DryIoc.dll</HintPath>
+    <Reference Include="IOC.FW.ContainerManager.DryIoc, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CodvancedFwReferences\IOC.FW.ContainerManager.DryIoc.dll</HintPath>
     </Reference>
     <Reference Include="IOC.FW.Core, Version=1.0.0.16635, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

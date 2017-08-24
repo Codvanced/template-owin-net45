@@ -6,3 +6,5 @@ PublishProfiles/
 Backup/
 *.suo
 UpgradeLog.htm
+.fake/
+paket.exe
